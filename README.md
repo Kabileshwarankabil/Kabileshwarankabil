@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm M.Kabileshwaran</h1>
-<h3 align="center">-🎓 Education: Currently pursuing my BSc in Computer Science at Trincomalee Campus, Eastern University, Sri Lanka. The thrill of unraveling complex problems keeps me motivated.</h3>
+<h3 align="center">-🎓 Education: Currently pursuing my BSc in Computer Science at Trincomalee Campus, Eastern University, Sri Lanka.</h3>
 
 - 🌱 I’m currently learning **Data structures and Algorithms**
 

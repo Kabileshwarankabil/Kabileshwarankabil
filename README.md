@@ -1,18 +1,19 @@
 <h1 align="center">Hi 👋, I'm M.Kabileshwaran</h1>
-<h3 align="center">-🎓 Education: Currently pursuing my BSc in Computer Science at Trincomalee Campus, Eastern University, Sri Lanka.</h3>
+
+- 🎓 Education: Currently pursuing my BSc in Computer Science at Trincomalee Campus, Eastern University, Sri Lanka.
 
 - 🌱 I’m currently learning **Data structures and Algorithms**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Kabileshwarankabil?tab=repositories](https://github.com/Kabileshwarankabil?tab=repositories)
 
-- 💬 Ask me about **c++ , java and python**
+- 💬 Ask me about : **C++ , Java and Python**
 
-- 📫 How to reach me **kabileshwaran1896@gmail.com**
+- 📫 How to reach me :  **kabileshwaran1896@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/kabileshwaran-m-9952a62a5/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/kabileshwaran-m-9952a62a5/" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/u/kabileshwaran1896/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/kabileshwaran1896/" height="30" width="40" /></a>
+<a href="[https://linkedin.com/in/https://www.linkedin.com/in/kabileshwaran-m-9952a62a5/](https://www.linkedin.com/in/kabileshwaran-m-9952a62a5/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/kabileshwaran-m-9952a62a5/" height="30" width="40" /></a>
+<a href="[https://www.leetcode.com/https://leetcode.com/u/kabileshwaran1896/](https://leetcode.com/u/Kabileshwaran1896/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/kabileshwaran1896/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>

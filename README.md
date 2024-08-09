@@ -1,7 +1,16 @@
 <h1 align="center">Hi 👋, I'm M.Kabileshwaran</h1>
 
--  ✋ I am an enthusiastic and curious student about to embark on my journey in Computer Science .
-- My passion for programming and various computer science topics drives me to explore and learn continuously
+### Hello! 👋
+
+I'm M.Kabileshwaran , a student at the beginning of my journey in Computer Science. Currently, I'm a self-study student, but I will soon be pursuing a BSc in Computer Science at university. My interests span across various areas of Computer Science, and I'm dedicated to enhancing my skills and knowledge.
+
+💻 **Programming:** I enjoy writing code and solving problems through different programming languages and paradigms.
+
+📚 **Self-Study:** I believe in the power of self-learning and have been actively exploring various topics in Computer Science on my own.
+
+🎓 **Future Studies:** Excited to start my formal education in Computer Science, I look forward to deepening my understanding and working on more complex projects.
+
+Feel free to explore my repositories and follow along on my journey. Let's connect and collaborate on exciting projects!
 
 - 🌱 I’m currently learning **Data structures and Algorithms**
 

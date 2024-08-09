@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm M.Kabileshwaran</h1>
 
-- I am an enthusiastic and curious student about to embark on my journey in Computer Science .
+-  ✋ I am an enthusiastic and curious student about to embark on my journey in Computer Science .
 - My passion for programming and various computer science topics drives me to explore and learn continuously
 
 - 🌱 I’m currently learning **Data structures and Algorithms**

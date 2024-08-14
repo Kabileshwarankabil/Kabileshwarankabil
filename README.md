@@ -14,7 +14,7 @@ Feel free to explore my repositories and follow along on my journey. Let's conne
 
 - 🌱 I’m currently learning **Data structures and Algorithms**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Kabileshwarankabil?tab=repositories](https://github.com/Kabileshwarankabil?tab=repositories)
+- 👨‍💻 All of my projects are available at [**Click Here**](https://github.com/Kabileshwarankabil?tab=repositories)
 
 - 💬 Ask me about : **C++ , Java and Python**
 

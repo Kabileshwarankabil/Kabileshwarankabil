@@ -1,14 +1,14 @@
-<h1 align="center">Hi 👋, I'm M.Kabileshwaran</h1>
+<h1 align="center">Hi 👋 I'm Kabileshwaran  </h1>
 
-### Hello! 👋
+### Kabileshwaran M
+👋 Hi there! I’m Kabileshwaran, a first-year computer science student at Trincomalee Campus, Eastern University of Sri Lanka (EUSL). Here’s a glimpse into my tech journey:
 
-I'm M.Kabileshwaran , a student at the beginning of my journey in Computer Science. Currently, I'm a self-study student, but I will soon be pursuing a BSc in Computer Science at university. My interests span across various areas of Computer Science, and I'm dedicated to enhancing my skills and knowledge.
-
-💻 **Programming:** I enjoy writing code and solving problems through different programming languages and paradigms.
-
-📚 **Self-Study:** I believe in the power of self-learning and have been actively exploring various topics in Computer Science on my own.
-
-🎓 **Future Studies:** Excited to start my formal education in Computer Science, I look forward to deepening my understanding and working on more complex projects.
+- 🚀 Passionate About Technology: I believe that technology has the power to transform lives. From coding to building applications, I’m always eager to explore new horizons.
+- 💻 Programming Enthusiast: As a budding programmer, I’m diving into languages like Python, Java, and C++. Solving puzzles and creating elegant solutions? Count me in!
+- 🌐 Curious Learner: The tech world evolves rapidly, and I’m here for it! Whether it’s web development, mobile apps, or cloud computing, I’m curious to learn it all.
+- 🤖 AI Enthusiast: Artificial intelligence fascinates me. From machine learning to natural language processing, I’m excited to unravel its mysteries.
+- 📊 Data Structures & Algorithms: I believe strong foundations matter. Diving deep into data structures and algorithms keeps my brain buzzing.
+- 🌟 GitHub Explorer: You’ll find my projects, experiments, and contributions right here on GitHub. Let’s connect and collaborate!
 
 Feel free to explore my repositories and follow along on my journey. Let's connect and collaborate on exciting projects!
 

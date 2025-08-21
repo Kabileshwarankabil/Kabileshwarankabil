@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hey there, I'm <span style="color:#4CAF50">M.Kabileshwaran</span></h1>
+<h1 align="center">👋 Hey there, I'm <span style="color:#4CAF50">M. Kabileshwaran</span></h1>
 
 <p align="center">
   <em>🎓 Computer Science Student • 💡 Curious Learner • ⚡ Problem Solver • 🌐 Tech Explorer</em>
@@ -49,9 +49,6 @@ I believe in *continuous learning*, *knowledge sharing*, and *collaborating on i
   <a href="https://www.reddit.com/user/Kabileshwaran/" target="_blank">
     <img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white"/>
   </a>
-  <a href="kabileshwaran1896@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
 </p>
 
 ---
@@ -74,3 +71,19 @@ I believe in *continuous learning*, *knowledge sharing*, and *collaborating on i
 <p align="center">
   ✨ *“Always learning, building, and exploring new possibilities in tech.”* ✨
 </p>
+
+*“Don’t compare yourself with anyone in this world… if you do so, you are insulting yourself.”*  – **Bill Gates**  
+
+*“I’m not competing with others; I’m competing with who I was yesterday.”*  
+
+## 🎉 Fun Little Side  
+
+- 💡 I love solving problems (even the ones I created myself 🤭)  
+- 🚀 Every bug I fix feels like a mini-boss defeated  
+- 🌍 Building small today, dreaming big for tomorrow  
+- ✨ Believer in **hard work + smart work = growth**  
+
+## 📌 Final Note  
+
+⭐ Thanks for visiting my profile! This is just the beginning of my journey — every project and every challenge makes me better than yesterday.  
+Let’s learn, build, and grow together 🚀✨  
